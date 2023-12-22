@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.exe
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.deps.json
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.runtimeconfig.json
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.dll
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.pdb
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.AssemblyInfo.cs
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.dll
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\refint\ChooseYourOwnAdventure.dll
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.pdb
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.genruntimeconfig.cache
+C:\Users\User\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ref\ChooseYourOwnAdventure.dll

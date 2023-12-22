@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\bin\Debug\net6.0\ForestClassPractice.exe
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\bin\Debug\net6.0\ForestClassPractice.deps.json
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\bin\Debug\net6.0\ForestClassPractice.runtimeconfig.json
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\bin\Debug\net6.0\ForestClassPractice.dll
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\bin\Debug\net6.0\ForestClassPractice.pdb
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\obj\Debug\net6.0\ForestClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\obj\Debug\net6.0\ForestClassPractice.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\obj\Debug\net6.0\ForestClassPractice.AssemblyInfo.cs
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\obj\Debug\net6.0\ForestClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\obj\Debug\net6.0\ForestClassPractice.dll
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\obj\Debug\net6.0\refint\ForestClassPractice.dll
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\obj\Debug\net6.0\ForestClassPractice.pdb
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\obj\Debug\net6.0\ForestClassPractice.genruntimeconfig.cache
+C:\Users\User\RiderProjects\PracticesReposCC\ClassesPractice\obj\Debug\net6.0\ref\ForestClassPractice.dll

@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\bin\Debug\net6.0\SavingInterface.exe
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\bin\Debug\net6.0\SavingInterface.deps.json
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\bin\Debug\net6.0\SavingInterface.runtimeconfig.json
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\bin\Debug\net6.0\SavingInterface.dll
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\bin\Debug\net6.0\SavingInterface.pdb
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\obj\Debug\net6.0\SavingInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\obj\Debug\net6.0\SavingInterface.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\obj\Debug\net6.0\SavingInterface.AssemblyInfo.cs
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\obj\Debug\net6.0\SavingInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\obj\Debug\net6.0\SavingInterface.dll
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\obj\Debug\net6.0\refint\SavingInterface.dll
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\obj\Debug\net6.0\SavingInterface.pdb
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\obj\Debug\net6.0\SavingInterface.genruntimeconfig.cache
+C:\Users\User\RiderProjects\PracticesReposCC\SavingInterface\obj\Debug\net6.0\ref\SavingInterface.dll

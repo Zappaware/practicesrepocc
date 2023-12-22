@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\bin\Debug\net7.0\ProgrammingLanguages.exe
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\bin\Debug\net7.0\ProgrammingLanguages.deps.json
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\bin\Debug\net7.0\ProgrammingLanguages.runtimeconfig.json
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\bin\Debug\net7.0\ProgrammingLanguages.dll
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\bin\Debug\net7.0\ProgrammingLanguages.pdb
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\obj\Debug\net7.0\ProgrammingLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\obj\Debug\net7.0\ProgrammingLanguages.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\obj\Debug\net7.0\ProgrammingLanguages.AssemblyInfo.cs
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\obj\Debug\net7.0\ProgrammingLanguages.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\obj\Debug\net7.0\ProgrammingLanguages.dll
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\obj\Debug\net7.0\refint\ProgrammingLanguages.dll
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\obj\Debug\net7.0\ProgrammingLanguages.pdb
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\obj\Debug\net7.0\ProgrammingLanguages.genruntimeconfig.cache
+C:\Users\User\RiderProjects\PracticesReposCC\ProgrammingLanguages\obj\Debug\net7.0\ref\ProgrammingLanguages.dll

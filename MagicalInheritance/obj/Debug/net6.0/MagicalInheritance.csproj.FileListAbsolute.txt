@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\bin\Debug\net6.0\MagicalInheritance.exe
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\bin\Debug\net6.0\MagicalInheritance.deps.json
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\bin\Debug\net6.0\MagicalInheritance.runtimeconfig.json
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\bin\Debug\net6.0\MagicalInheritance.dll
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\bin\Debug\net6.0\MagicalInheritance.pdb
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\obj\Debug\net6.0\MagicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\obj\Debug\net6.0\MagicalInheritance.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\obj\Debug\net6.0\MagicalInheritance.AssemblyInfo.cs
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\obj\Debug\net6.0\MagicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\obj\Debug\net6.0\MagicalInheritance.dll
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\obj\Debug\net6.0\refint\MagicalInheritance.dll
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\obj\Debug\net6.0\MagicalInheritance.pdb
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\obj\Debug\net6.0\MagicalInheritance.genruntimeconfig.cache
+C:\Users\User\RiderProjects\PracticesReposCC\MagicalInheritance\obj\Debug\net6.0\ref\MagicalInheritance.dll

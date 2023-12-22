@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\bin\Debug\net7.0\RoverControllerCenter.exe
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\bin\Debug\net7.0\RoverControllerCenter.deps.json
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\bin\Debug\net7.0\RoverControllerCenter.runtimeconfig.json
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\bin\Debug\net7.0\RoverControllerCenter.dll
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\bin\Debug\net7.0\RoverControllerCenter.pdb
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\obj\Debug\net7.0\RoverControllerCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\obj\Debug\net7.0\RoverControllerCenter.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\obj\Debug\net7.0\RoverControllerCenter.AssemblyInfo.cs
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\obj\Debug\net7.0\RoverControllerCenter.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\obj\Debug\net7.0\RoverControllerCenter.dll
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\obj\Debug\net7.0\refint\RoverControllerCenter.dll
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\obj\Debug\net7.0\RoverControllerCenter.pdb
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\obj\Debug\net7.0\RoverControllerCenter.genruntimeconfig.cache
+C:\Users\User\RiderProjects\PracticesReposCC\RoverControllerCenter\obj\Debug\net7.0\ref\RoverControllerCenter.dll
